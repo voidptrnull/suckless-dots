@@ -4,4 +4,4 @@ EXEC=sudo
 INIT_SYSTEM=systemd
 
 # Zig Build Release
-ZIG_BUILD=fast
+ZIG_BUILD=off

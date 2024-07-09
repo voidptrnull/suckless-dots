@@ -69,7 +69,7 @@ static const struct arg args[] = {
 	// CPU THERMAL ZONE, UNICODE FOR DEGREE SYMBOL
 	{ temp,     "%s°C  ",	"/sys/class/thermal/thermal_zone2/temp"},
 	{ ram_used, "RAM:%s  ",	       	NULL   },
-	{ netspeed_rx,"RX:%s\u2193  ",	"enp1s0"},
-	{ netspeed_tx,"TX:%s\u2191  ",	"enp1s0"},
+	{ netspeed_rx,"RX:%sB\u2193  ",	"enp1s0"},
+	{ netspeed_tx,"TX:%sB\u2191  ",	"enp1s0"},
 	{ datetime, "%s",           	"%F %T" },
 };
