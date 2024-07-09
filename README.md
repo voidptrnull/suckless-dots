@@ -19,8 +19,6 @@ The present configuration zrequires the following:
 
 >Note: `st` is in the repo but I did not end up using it.
 
-The others don't need much else.
-
 ## Automatic Building & Installation
 
 >Note: Requires `sudo` or `doas` or anything else. It is not meant to be run as root.
