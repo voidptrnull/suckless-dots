@@ -1,5 +1,5 @@
 # suckless-dots
-My personal Suckless + ly setup
+My personal Suckless Software + ly setup
 
 ## Configuration & Usage
 Refer to the documentation of the particular document.
