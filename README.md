@@ -12,7 +12,7 @@ Refer to the documentation of the particular document.
 - Make (or GMake) as build system.
 
 ### DWM
-The present configuration zrequires the following:
+The present configuration requires the following:
 - Terminal - `Sakura`
 - Browser - `firefox-bin` (Gentoo Firefox Binary)
 - Launcher - `dmenu`
