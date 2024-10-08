@@ -4,6 +4,11 @@ My personal Suckless Software + ly setup
 ## Configuration & Usage
 Refer to the documentation of the particular document.
 
+## Licensing
+
+I do not own the projects referenced in this repository but am merely providing my modified changes.
+Refer to the original projects for their actual source code.
+
 ## Pre-requisites for building all the components
 > [!WARNING]
 > This requisites are strictly required, and are mandatory. Failing to provide for
